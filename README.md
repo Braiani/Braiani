@@ -8,7 +8,7 @@ This is how much code I've been writting
 
 
 - 🔭 I’m currently working on 03 projects, 02 private and a package for Laravel to integrate with Whatsapp
-- 🌱 I’m currently learning Cyber Defense at Unifavip
+- 🌱 I’m currently Pursuing Cybersecurity Degree at Unifavip
 - 👯 I’m looking to collaborate on projects that uses PHP and Laravel
 - 💬 Ask me about Laravel, PHP, Docker, Html, API and technology
 - 📫 How to reach me: <felipe@brtechsistemas.com.br>
