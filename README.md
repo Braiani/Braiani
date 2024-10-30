@@ -6,6 +6,10 @@ This is how much code I've been writting
 
 [![wakatime](https://wakatime.com/badge/user/e173ee68-7633-4038-9460-1473cbbb43d0.svg)](https://wakatime.com/@e173ee68-7633-4038-9460-1473cbbb43d0)
 
+A little bit about my Github activities!
+
+[![Braiani's stats](https://github-readme-stats.vercel.app/api?username=Braiani&theme=dark&show_icons=true&hide_border=false&count_private=true&show=reviews,prs_merged,prs_merged_percentage&border_radius=20)](https://brtechsistemas.com.br)
+
 
 - 🔭 I’m currently working on 03 projects, 02 private and a package for Laravel to integrate with Whatsapp
 - 🌱 I’m currently Pursuing Cybersecurity Degree at Estácio
